@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 63 Generated at: 2024-06-21 15:32:49 -->
+
+  <url>
+    <loc>https://blog.shibalover.love/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/archives/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/music/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/movies/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/comments</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/link/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/about/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/06/02/springboot-3/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/18/elmentui-1/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/18/springboot-2/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/14/my-batis-plus-1/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/ant-design-1/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Ant-Design/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Java/</loc>
+    <priority>0.97</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Vue/</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E5%90%8E%E7%AB%AF/</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Element-UI/</loc>
+    <priority>0.94</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/SpringBoot/</loc>
+    <priority>0.94</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Ant-Design-Pro/</loc>
+    <priority>0.94</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E9%9D%A2%E8%AF%95/</loc>
+    <priority>0.94</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Redis/</loc>
+    <priority>0.94</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Mybatis-Plus/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/vue/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E8%81%8C%E5%9C%BA/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/Maven/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/</loc>
+    <priority>0.93</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/page/2/</loc>
+    <priority>0.92</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/Redis/</loc>
+    <priority>0.86</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/mongodb-1/</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/mysql-1/</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/Java/</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/React/</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/java-1/</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/ant-design-pro-1/</loc>
+    <priority>0.83</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/ant-design-pro-2/</loc>
+    <priority>0.83</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/page/3/</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/Vue/</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/Vue/Element-UI/</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/MySql/</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/archives/page/2/</loc>
+    <priority>0.76</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/react-1/</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/spring-1/</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/springboot-1/</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/springclound-1/</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/redis-1/</loc>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/08/work-1/</loc>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/10/maven-1/</loc>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/vue-1/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/05/12/uni-app-1/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/archives/page/3/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/tags/%E5%89%8D%E7%AB%AF/page/2/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/03/16/devUtil-1/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/2024/03/16/work-2/</loc>
+    <priority>0.69</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/Maven/</loc>
+    <priority>0.69</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <priority>0.69</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/%E8%81%8C%E5%9C%BA/</loc>
+    <priority>0.69</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.shibalover.love/categories/%E9%9D%A2%E8%AF%95/</loc>
+    <priority>0.69</priority>
+  </url>
+
+</urlset>
